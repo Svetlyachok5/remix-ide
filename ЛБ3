@@ -1,0 +1,2 @@
+sudo npm install remix-ide -g
+remix-ide
